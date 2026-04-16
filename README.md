@@ -28,7 +28,7 @@
 
 ### 📊 Galactic Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akiera_Kira&show_icons=true&theme=radical&bg_color=1a1b27&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akiera&show_icons=true&theme=radical&bg_color=1a1b27&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9" alt="Stats" />
 </p>
 
 ---
