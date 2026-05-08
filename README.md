@@ -2,20 +2,20 @@
 
 # 🌌 Welcome to Akiera's Universe 
 
-<img src="header-space.png" alt="Akiera's 3D Space Art" width="100%" style="border-radius: 20px; border: 2px solid #7b2cbf;" />
+<img src="header-space.png" alt="Akiera's 3D Space Art" width="100%" style="border-radius: 20px; border: 2px solid #7b2cbf; box-shadow: 0 10px 30px rgba(123, 44, 191, 0.4);" />
 
 <br>
 
-### ✨ Personal Log: The Creator
-Saya adalah seorang **3D Artist & Developer** yang menjembatani imajinasi dan kode.  
-Dunia saya berputar di sekitar **Blender**—sebuah ruang hampa tempat saya membangun realitas *low-poly* pertama saya, dan hingga kini tetap menjadi pusat gravitasi dari setiap karya yang saya ciptakan.
+### ✨ The Creator's Log
+I am a **3D Artist & Developer** dedicated to merging digital art with functional code.  
+My creative journey is anchored by **Blender**—it was the first "world-building" tool I mastered, and it remains the gravitational center of every low-poly environment and technical project I launch today.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Low+Poly+Enthusiast;Python+%26+GDScript+Coder;Space+Aesthetic+Lover;Building+Immersive+Experiences)](https://git.io/typing-svg)
 
 ---
 
-### 🚀 Cosmic Toolkit
-*Mempersenjatai perjalanan dengan teknologi pilihan.*
+### 🚀 The Cosmic Toolkit
+*Weaponizing my journey with a curated stack of technology.*
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=blender,python,godot,linux,html,css,github,git&theme=dark" />
@@ -23,14 +23,14 @@ Dunia saya berputar di sekitar **Blender**—sebuah ruang hampa tempat saya memb
 
 | 🎨 Artistic Orbit | 💻 Technical Void | 🔭 Galactic Vibe |
 | :--- | :--- | :--- |
-| **Blender** (Main Core) | **Python** & **GDScript** | **Minimalist** Design |
+| **Blender** (Core) | **Python** & **GDScript** | **Minimalist** Design |
 | Low Poly Aesthetics | **Godot Engine** | Purple Aesthetics |
 | 3D Scene Design | **Virt-Manager** & Linux | Space Exploration |
 
 ---
 
 ### 🪐 Galactic Achievements
-*Menampilkan jejak langkah di antara bintang-bintang.*
+*Tracking milestones across the digital stars.*
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akiera-Grammer&theme=radical&no-frame=true&margin-w=15&column=4" alt="Galactic Trophies" />
@@ -44,8 +44,8 @@ Dunia saya berputar di sekitar **Blender**—sebuah ruang hampa tempat saya memb
 ---
 
 ### 🛸 Let's Connect!
-Selalu terbuka untuk diskusi tentang 3D art, game dev, atau misteri luar angkasa.  
-*Jelajahi repositori saya dan lihat dunia yang sedang saya bangun!*
+Always open to discussing 3D art, game development, or the mysteries of the deep cosmos.  
+*Feel free to explore my repositories and witness the worlds I'm building!*
 
 <br>
 
