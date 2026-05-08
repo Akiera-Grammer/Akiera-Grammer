@@ -26,8 +26,7 @@ and it continues to be the heart of every world I build today.
 ---
 ### 📊 Galactic Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akiera-Grammer&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akiera-Grammer&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akiera-Grammer&theme=radical&no-frame=true&margin-w=15&column=4" alt="Galactic Trophies" />
 </p>
 ---
 
