@@ -26,7 +26,10 @@ and it continues to be the heart of every world I build today.
 ---
 ### 📊 Galactic Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akiera-Grammer&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Blender-%2320232a.svg?style=for-the-badge&logo=blender&logoColor=%23F5792A" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=Godot+Engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 ---
 
