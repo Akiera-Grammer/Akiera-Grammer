@@ -2,7 +2,6 @@
 
 # 🌌 Welcome to Akiera's Universe 
 
-<img src="header-space.png" alt="Akiera's 3D Space Art" width="100%" style="border-radius: 20px; border: 2px solid #7b2cbf; box-shadow: 0 10px 30px rgba(123, 44, 191, 0.4);" />
 
 <br>
 
